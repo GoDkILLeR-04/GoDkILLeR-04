@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Pratyush!
+# 👋 
 
 Welcome to my GitHub profile! Here, you'll find a collection of my projects, experiments, and contributions. I am passionate about finance, technology, and continuous learning.
 
@@ -10,13 +10,8 @@ I'm a finance student with a strong enthusiasm for financial markets, data analy
 
 ![GoDkILLeR-04's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoDkILLeR-04&show_icons=true&theme=dark)
 
-## 🌐 Connect With Me
-
-- [LinkedIn](www.linkedin.com/in/singh-pratyush4)
-- [Email](pratyushsingh.live@gmail.com)
-
-## 💫 Quote 
- 🚀 CTRL+C, CTRL+V, and a little bit of magic. 💫📉 Excel > Python (for now...)
+## ✍️
+  CTRL+C, CTRL+V, and a little bit of magic. 💫📉 Excel > Python (for now...)
 
 ---
 
