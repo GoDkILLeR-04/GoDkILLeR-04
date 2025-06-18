@@ -15,6 +15,9 @@ I'm a finance student with a strong enthusiasm for financial markets, data analy
 - [LinkedIn](www.linkedin.com/in/singh-pratyush4)
 - [Email](pratyushsingh.live@gmail.com)
 
+## Quote
+> CTRL+C, CTRL+V, and a little bit of magic. 💫📉 Excel > Python (for now...)
+
 ---
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or chat.
