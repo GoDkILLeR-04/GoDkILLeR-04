@@ -1,10 +1,12 @@
 # 👋 
 
-Welcome to my GitHub profile! Here, you'll find a collection of my projects, experiments, and contributions. I am passionate about finance, technology, and continuous learning.
+Welcome to my GitHub profile! 
 
-## 🚀 About Me
+## 🚀 About
 
-I'm a finance student with a strong enthusiasm for financial markets, data analysis, and leveraging technology to solve real-world problems. I enjoy exploring new tools and building projects that bridge the gap between finance and tech.
+Finance isn't just crunching numbers—it's decoding market "whys" and building strategies that win. He brings an interdisciplinary edge to equity analysis, merging scientific precision with creative coding to uncover hidden opportunities. From automating Excel tools for rapid valuations to engaging in finance tech communities, he's powered by innovation and collaboration. Dive into his repos for DCF models, dashboards, and more—if you're innovating in fintech or data-driven investing, connect and collaborate.
+
+What sets him apart? His fusion of analytical rigor with bold, code-smart thinking—delivering tools and strategies that don't just analyze, but accelerate real value and team performance.
 
 ## 📈 GitHub Stats
 
